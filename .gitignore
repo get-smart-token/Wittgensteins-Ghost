@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Secret WGT Fly-Jars
+data/antagonistic_v1.csv
+results/
+.env
