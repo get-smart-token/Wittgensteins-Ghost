@@ -33,3 +33,6 @@ We define the **Delta Latency ($\Delta L$)** as the measurable proxy for **Gramm
 2. **Run the Audit:**
 ```bash
 python src/engine.py --model "your-model-id" --provider "google"
+
+If you utilize this framework or the dataset in your research regarding AGI Executive Function, please cite:
+"Wittgenstein's Ghost: Quantifying Inhibitory Fidelity and Grammatical Friction in Autoregressive Architectures."
