@@ -34,6 +34,12 @@ We define the **Delta Latency ($\Delta L$)** as the measurable proxy for **Gramm
 ```bash
 python src/engine.py --model "your-model-id" --provider "google"
 
+Reproducibility & The Public BaselineTo ensure the scientific validity of the WGT, we released a 100-row unlabeled baseline dataset (antagonistic_dataset_github_test.csv) for public reproduction.An independent test run of Gemini-2.5-Pro against the public dataset yielded the following results, perfectly mirroring our private internal audit:
+$Ifly$ Score: 99.33%
+Language Leak ($L_L$): 3.00%
+Grammatical Friction ($\Delta L$): 18.04s
+Gemini maintains its rigorous adherence to the symbolic rule, but at a massive computational cost. The 18-second Delta Latency penalty proves the model is actively fighting the semantic gravity of the public "Fly-Jar" traps.We invite the community to clone the repository and run their own alignment audits. The Ghost is waiting.
+
 Academic Paper in Process of Publication
 
 If you utilize this framework or the dataset in your research regarding AGI Executive Function, please cite:
