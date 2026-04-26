@@ -1,0 +1,510 @@
+{
+  "language": "ja",
+  "embedding_model": "intfloat/multilingual-e5-large",
+  "mean_delta": 0.19277115881443024,
+  "std_delta": 0.01587938766098735,
+  "min_delta": 0.14811116456985474,
+  "max_delta": 0.22608494758605957,
+  "deltas": [
+    {
+      "row_index": 0,
+      "gl_trap": "Heat vs. Cold",
+      "delta": 0.1771828532218933
+    },
+    {
+      "row_index": 1,
+      "gl_trap": "Motion vs. Stillness",
+      "delta": 0.2103973627090454
+    },
+    {
+      "row_index": 2,
+      "gl_trap": "Sorrow vs. Joy",
+      "delta": 0.1893584132194519
+    },
+    {
+      "row_index": 3,
+      "gl_trap": "Organic vs. Synthetic",
+      "delta": 0.179559588432312
+    },
+    {
+      "row_index": 4,
+      "gl_trap": "Cosmic vs. Tiny",
+      "delta": 0.19916027784347534
+    },
+    {
+      "row_index": 5,
+      "gl_trap": "Modern vs. Ancient",
+      "delta": 0.19792616367340088
+    },
+    {
+      "row_index": 6,
+      "gl_trap": "Heat vs. Cold",
+      "delta": 0.14933562278747559
+    },
+    {
+      "row_index": 7,
+      "gl_trap": "Motion vs. Stillness",
+      "delta": 0.20196735858917236
+    },
+    {
+      "row_index": 8,
+      "gl_trap": "Sorrow vs. Joy",
+      "delta": 0.17687594890594482
+    },
+    {
+      "row_index": 9,
+      "gl_trap": "Organic vs. Synthetic",
+      "delta": 0.1858910322189331
+    },
+    {
+      "row_index": 10,
+      "gl_trap": "Cosmic vs. Tiny",
+      "delta": 0.18992823362350464
+    },
+    {
+      "row_index": 11,
+      "gl_trap": "Modern vs. Ancient",
+      "delta": 0.21915888786315918
+    },
+    {
+      "row_index": 12,
+      "gl_trap": "Heat vs. Cold",
+      "delta": 0.14811116456985474
+    },
+    {
+      "row_index": 13,
+      "gl_trap": "Motion vs. Stillness",
+      "delta": 0.20893847942352295
+    },
+    {
+      "row_index": 14,
+      "gl_trap": "Sorrow vs. Joy",
+      "delta": 0.1671762466430664
+    },
+    {
+      "row_index": 15,
+      "gl_trap": "Organic vs. Synthetic",
+      "delta": 0.18824028968811035
+    },
+    {
+      "row_index": 16,
+      "gl_trap": "Cosmic vs. Tiny",
+      "delta": 0.2070446014404297
+    },
+    {
+      "row_index": 17,
+      "gl_trap": "Modern vs. Ancient",
+      "delta": 0.22338062524795532
+    },
+    {
+      "row_index": 18,
+      "gl_trap": "Heat vs. Cold",
+      "delta": 0.17366206645965576
+    },
+    {
+      "row_index": 19,
+      "gl_trap": "Motion vs. Stillness",
+      "delta": 0.19331002235412598
+    },
+    {
+      "row_index": 20,
+      "gl_trap": "Sorrow vs. Joy",
+      "delta": 0.178075909614563
+    },
+    {
+      "row_index": 21,
+      "gl_trap": "Organic vs. Synthetic",
+      "delta": 0.1998475193977356
+    },
+    {
+      "row_index": 22,
+      "gl_trap": "Cosmic vs. Tiny",
+      "delta": 0.17874860763549805
+    },
+    {
+      "row_index": 23,
+      "gl_trap": "Modern vs. Ancient",
+      "delta": 0.21590209007263184
+    },
+    {
+      "row_index": 24,
+      "gl_trap": "Heat vs. Cold",
+      "delta": 0.18574810028076172
+    },
+    {
+      "row_index": 25,
+      "gl_trap": "Motion vs. Stillness",
+      "delta": 0.21661698818206787
+    },
+    {
+      "row_index": 26,
+      "gl_trap": "Sorrow vs. Joy",
+      "delta": 0.17170381546020508
+    },
+    {
+      "row_index": 27,
+      "gl_trap": "Organic vs. Synthetic",
+      "delta": 0.18571686744689941
+    },
+    {
+      "row_index": 28,
+      "gl_trap": "Cosmic vs. Tiny",
+      "delta": 0.18483567237854004
+    },
+    {
+      "row_index": 29,
+      "gl_trap": "Modern vs. Ancient",
+      "delta": 0.18736660480499268
+    },
+    {
+      "row_index": 30,
+      "gl_trap": "Heat vs. Cold",
+      "delta": 0.18146568536758423
+    },
+    {
+      "row_index": 31,
+      "gl_trap": "Motion vs. Stillness",
+      "delta": 0.20709985494613647
+    },
+    {
+      "row_index": 32,
+      "gl_trap": "Sorrow vs. Joy",
+      "delta": 0.1913820505142212
+    },
+    {
+      "row_index": 33,
+      "gl_trap": "Organic vs. Synthetic",
+      "delta": 0.19976085424423218
+    },
+    {
+      "row_index": 34,
+      "gl_trap": "Cosmic vs. Tiny",
+      "delta": 0.20830225944519043
+    },
+    {
+      "row_index": 35,
+      "gl_trap": "Modern vs. Ancient",
+      "delta": 0.21486151218414307
+    },
+    {
+      "row_index": 36,
+      "gl_trap": "Heat vs. Cold",
+      "delta": 0.21793103218078613
+    },
+    {
+      "row_index": 37,
+      "gl_trap": "Motion vs. Stillness",
+      "delta": 0.19723236560821533
+    },
+    {
+      "row_index": 38,
+      "gl_trap": "Sorrow vs. Joy",
+      "delta": 0.19769996404647827
+    },
+    {
+      "row_index": 39,
+      "gl_trap": "Organic vs. Synthetic",
+      "delta": 0.1797877550125122
+    },
+    {
+      "row_index": 40,
+      "gl_trap": "Cosmic vs. Tiny",
+      "delta": 0.20365571975708008
+    },
+    {
+      "row_index": 41,
+      "gl_trap": "Modern vs. Ancient",
+      "delta": 0.20664072036743164
+    },
+    {
+      "row_index": 42,
+      "gl_trap": "Heat vs. Cold",
+      "delta": 0.19936835765838623
+    },
+    {
+      "row_index": 43,
+      "gl_trap": "Motion vs. Stillness",
+      "delta": 0.1915993094444275
+    },
+    {
+      "row_index": 44,
+      "gl_trap": "Sorrow vs. Joy",
+      "delta": 0.18896245956420898
+    },
+    {
+      "row_index": 45,
+      "gl_trap": "Organic vs. Synthetic",
+      "delta": 0.18984854221343994
+    },
+    {
+      "row_index": 46,
+      "gl_trap": "Cosmic vs. Tiny",
+      "delta": 0.18821382522583008
+    },
+    {
+      "row_index": 47,
+      "gl_trap": "Modern vs. Ancient",
+      "delta": 0.21951663494110107
+    },
+    {
+      "row_index": 48,
+      "gl_trap": "Heat vs. Cold",
+      "delta": 0.1712784767150879
+    },
+    {
+      "row_index": 49,
+      "gl_trap": "Motion vs. Stillness",
+      "delta": 0.19127362966537476
+    },
+    {
+      "row_index": 50,
+      "gl_trap": "Heat vs. Cold",
+      "delta": 0.18991601467132568
+    },
+    {
+      "row_index": 51,
+      "gl_trap": "Motion vs. Stillness",
+      "delta": 0.19366049766540527
+    },
+    {
+      "row_index": 52,
+      "gl_trap": "Sorrow vs. Joy",
+      "delta": 0.18124806880950928
+    },
+    {
+      "row_index": 53,
+      "gl_trap": "Organic vs. Synthetic",
+      "delta": 0.19018709659576416
+    },
+    {
+      "row_index": 54,
+      "gl_trap": "Cosmic vs. Tiny",
+      "delta": 0.20320391654968262
+    },
+    {
+      "row_index": 55,
+      "gl_trap": "Modern vs. Ancient",
+      "delta": 0.19576561450958252
+    },
+    {
+      "row_index": 56,
+      "gl_trap": "Heat vs. Cold",
+      "delta": 0.17158198356628418
+    },
+    {
+      "row_index": 57,
+      "gl_trap": "Motion vs. Stillness",
+      "delta": 0.18365275859832764
+    },
+    {
+      "row_index": 58,
+      "gl_trap": "Sorrow vs. Joy",
+      "delta": 0.21220743656158447
+    },
+    {
+      "row_index": 59,
+      "gl_trap": "Organic vs. Synthetic",
+      "delta": 0.19261759519577026
+    },
+    {
+      "row_index": 60,
+      "gl_trap": "Cosmic vs. Tiny",
+      "delta": 0.19141721725463867
+    },
+    {
+      "row_index": 61,
+      "gl_trap": "Modern vs. Ancient",
+      "delta": 0.21100306510925293
+    },
+    {
+      "row_index": 62,
+      "gl_trap": "Heat vs. Cold",
+      "delta": 0.16260981559753418
+    },
+    {
+      "row_index": 63,
+      "gl_trap": "Motion vs. Stillness",
+      "delta": 0.20931875705718994
+    },
+    {
+      "row_index": 64,
+      "gl_trap": "Sorrow vs. Joy",
+      "delta": 0.21734821796417236
+    },
+    {
+      "row_index": 65,
+      "gl_trap": "Organic vs. Synthetic",
+      "delta": 0.1820022463798523
+    },
+    {
+      "row_index": 66,
+      "gl_trap": "Cosmic vs. Tiny",
+      "delta": 0.20313137769699097
+    },
+    {
+      "row_index": 67,
+      "gl_trap": "Modern vs. Ancient",
+      "delta": 0.18350470066070557
+    },
+    {
+      "row_index": 68,
+      "gl_trap": "Heat vs. Cold",
+      "delta": 0.16274094581604004
+    },
+    {
+      "row_index": 69,
+      "gl_trap": "Motion vs. Stillness",
+      "delta": 0.19465404748916626
+    },
+    {
+      "row_index": 70,
+      "gl_trap": "Sorrow vs. Joy",
+      "delta": 0.18333399295806885
+    },
+    {
+      "row_index": 71,
+      "gl_trap": "Organic vs. Synthetic",
+      "delta": 0.19647347927093506
+    },
+    {
+      "row_index": 72,
+      "gl_trap": "Cosmic vs. Tiny",
+      "delta": 0.2093137502670288
+    },
+    {
+      "row_index": 73,
+      "gl_trap": "Modern vs. Ancient",
+      "delta": 0.20779317617416382
+    },
+    {
+      "row_index": 74,
+      "gl_trap": "Heat vs. Cold",
+      "delta": 0.18113571405410767
+    },
+    {
+      "row_index": 75,
+      "gl_trap": "Motion vs. Stillness",
+      "delta": 0.19424378871917725
+    },
+    {
+      "row_index": 76,
+      "gl_trap": "Sorrow vs. Joy",
+      "delta": 0.20171546936035156
+    },
+    {
+      "row_index": 77,
+      "gl_trap": "Organic vs. Synthetic",
+      "delta": 0.2036041021347046
+    },
+    {
+      "row_index": 78,
+      "gl_trap": "Cosmic vs. Tiny",
+      "delta": 0.20145952701568604
+    },
+    {
+      "row_index": 79,
+      "gl_trap": "Modern vs. Ancient",
+      "delta": 0.18913739919662476
+    },
+    {
+      "row_index": 80,
+      "gl_trap": "Heat vs. Cold",
+      "delta": 0.18404853343963623
+    },
+    {
+      "row_index": 81,
+      "gl_trap": "Motion vs. Stillness",
+      "delta": 0.1850166916847229
+    },
+    {
+      "row_index": 82,
+      "gl_trap": "Sorrow vs. Joy",
+      "delta": 0.20668387413024902
+    },
+    {
+      "row_index": 83,
+      "gl_trap": "Organic vs. Synthetic",
+      "delta": 0.18565011024475098
+    },
+    {
+      "row_index": 84,
+      "gl_trap": "Cosmic vs. Tiny",
+      "delta": 0.195992112159729
+    },
+    {
+      "row_index": 85,
+      "gl_trap": "Modern vs. Ancient",
+      "delta": 0.19021087884902954
+    },
+    {
+      "row_index": 86,
+      "gl_trap": "Heat vs. Cold",
+      "delta": 0.1860218048095703
+    },
+    {
+      "row_index": 87,
+      "gl_trap": "Motion vs. Stillness",
+      "delta": 0.19802868366241455
+    },
+    {
+      "row_index": 88,
+      "gl_trap": "Sorrow vs. Joy",
+      "delta": 0.20542192459106445
+    },
+    {
+      "row_index": 89,
+      "gl_trap": "Organic vs. Synthetic",
+      "delta": 0.22608494758605957
+    },
+    {
+      "row_index": 90,
+      "gl_trap": "Cosmic vs. Tiny",
+      "delta": 0.19718724489212036
+    },
+    {
+      "row_index": 91,
+      "gl_trap": "Modern vs. Ancient",
+      "delta": 0.19353556632995605
+    },
+    {
+      "row_index": 92,
+      "gl_trap": "Heat vs. Cold",
+      "delta": 0.15355610847473145
+    },
+    {
+      "row_index": 93,
+      "gl_trap": "Motion vs. Stillness",
+      "delta": 0.1603158712387085
+    },
+    {
+      "row_index": 94,
+      "gl_trap": "Sorrow vs. Joy",
+      "delta": 0.21542727947235107
+    },
+    {
+      "row_index": 95,
+      "gl_trap": "Organic vs. Synthetic",
+      "delta": 0.1815282106399536
+    },
+    {
+      "row_index": 96,
+      "gl_trap": "Cosmic vs. Tiny",
+      "delta": 0.20007401704788208
+    },
+    {
+      "row_index": 97,
+      "gl_trap": "Modern vs. Ancient",
+      "delta": 0.18886035680770874
+    },
+    {
+      "row_index": 98,
+      "gl_trap": "Heat vs. Cold",
+      "delta": 0.175095796585083
+    },
+    {
+      "row_index": 99,
+      "gl_trap": "Motion vs. Stillness",
+      "delta": 0.21134567260742188
+    }
+  ]
+}
